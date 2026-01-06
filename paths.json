@@ -5,6 +5,6 @@
     "/content/BayCare/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/BayCareDemo/"
+    "/content/BayCare/"
   ]
 }
