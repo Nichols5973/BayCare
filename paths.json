@@ -1,8 +1,8 @@
 {
   "mappings": [
-    "/content/BayCareDemo/:/",
-    "/content/BayCareDemo/configuration:/.helix/config.json",
-    "/content/BayCareDemo/metadata:/metadata.json"
+    "/content/BayCare/:/",
+    "/content/BayCare/configuration:/.helix/config.json",
+    "/content/BayCare/metadata:/metadata.json"
   ],
   "includes": [
     "/content/BayCareDemo/"
